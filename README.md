@@ -1,1 +1,2 @@
-# CTDC - data from the countertrafficking data collaborative
+# CTDC - Data from the Counter-Trafficking Data Collaborative website
+This data was used to help develop a framework for determining the vulnerability of migrants. The data itself comes directly from the IOM and partnering NGOs on migrants and is combined into a large dataset. With little data on migrants available due to privacy and safety concerns, this dataset provides a unique opportunity for researchers to understand a population of vulnerable migrants. 
